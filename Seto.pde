@@ -1,4 +1,4 @@
-/* @pjs preload="img/background.jpg, img/ship.png"; */
+/* @pjs preload="img/background.jpg, img/ship.png, img/redlight.png"; */
 
 BG bg;
 Mover ship;
